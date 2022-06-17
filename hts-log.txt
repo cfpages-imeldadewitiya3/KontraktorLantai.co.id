@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 17 Jun 2022 11:02:10 at https://kontraktorlantai.co.id +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://kontraktorlantai.co.id -O1 "E:\c\HTML\kontraktorlantai.co.id" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/feed/ (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/comments/feed/ (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/pattern-concrete/ (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/teraso (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/kayu-parket (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/vinyl (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/karpet (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/lapangan (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/tentang-kami/ (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/kontak-kami/ (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/berita/ (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/kontak-kami (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Error when decompressing" (-1) at link https://kontraktorlantai.co.id/pattern-concrete (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/proyek/public-space (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/proyek/building (from https://kontraktorlantai.co.id/)
+11:03:24	Error: 	"Not Found" (404) at link https://kontraktorlantai.co.id/proyek/residential (from https://kontraktorlantai.co.id/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 16 seconds : 68 links scanned, 51 files written (5662663 bytes overall) [2810440 bytes received at 36979 bytes/sec], 5138373 bytes transferred using HTTP compression in 53 files, ratio 43%, 13.8 requests per connection
+(16 errors, 0 warnings, 0 messages)
