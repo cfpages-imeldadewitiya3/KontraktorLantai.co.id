@@ -1,0 +1,17 @@
+berita/index.html
+comments/feed/index.html
+feed/index.html
+index.html
+karpet.html
+kayu-parket.html
+kontak-kami/index.html
+kontak-kami.html
+lapangan.html
+pattern-concrete/index.html
+pattern-concrete.html
+proyek/building.html
+proyek/public-space.html
+proyek/residential.html
+tentang-kami/index.html
+teraso.html
+vinyl.html
